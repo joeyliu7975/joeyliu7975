@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=joeyliu7975&color=orange&style=flat-square)
+
+![joeyliu7975's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeyliu7975&show_icons=true&bg_color=30,de5d42,489dec&text_color=ffffff&title_color=ffffff&icon_color=70aef0)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeyliu7975&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **joeyliu7975/joeyliu7975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
